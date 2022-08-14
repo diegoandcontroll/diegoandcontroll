@@ -11,3 +11,12 @@ My name is Diego and I'm developer.
 - 🌎 I'm from João Pessoa, Paraíba, Brazil
 - 💙 In love with Technology
 - 💬 Computer Science Student
+
+## 	:bar_chart: &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoandcontroll&layout=compact&theme=radical" alt="Diego Lucas most languages"/>
+<img width="410em" style="margin-right:5px" src="https://github-readme-stats.vercel.app/api?username=diegoandcontroll&show_icons=true&theme=radical" alt="Diego Lucas stats"/>
+</p>
+<br>
+<br>
