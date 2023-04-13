@@ -13,8 +13,8 @@ My name is Diego and I'm developer.
 - 💬 Computer Science Student
 
 ## 	:bar_chart: &nbsp;GitHub Analytics
-<p align="left">
-<img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoandcontroll&layout=compact&theme=dracula&show_icons=true" alt="Diego Lucas most languages"/>
+![Diego Lucas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoandcontroll&layout=compact&theme=dracula&show_icons=true)
+
 </p>
 <br>
 <br>
