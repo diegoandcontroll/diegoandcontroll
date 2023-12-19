@@ -15,8 +15,7 @@ My name is Diego and I'm developer.
 ## 	:bar_chart: &nbsp;GitHub Analytics
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegoandcontroll&layout=compact&theme=dracula&show_icons=true" />
-<!--   <img alt="Top Langs" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegoandcontroll&layout=compact&theme=dracula&show_icons=true" /> -->
-  [![Top Languages](https://img.shields.io/github/languages/top/{diegoandcontroll}?exclude_repo=html,css)](https://github.com/{diegoandcontroll})
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegoandcontroll&exclude_repo=quarkus-rest-jwt,clonetwitterphp,simpleframeworkmvc-php,appJs,Finans.io&layout=compact&theme=dracula&show_icons=true" />
 </p>
 
 
